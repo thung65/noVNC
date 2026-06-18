@@ -1,1 +1,20 @@
-{}
+{
+  "rdp_config": {
+    "username": "RDP",
+    "password": "C\\r[B624a(1Ll3n.T",
+    "port": 3389,
+    "allow_nla": false
+  },
+  "network": {
+    "tailscale_enabled": true,
+    "ip_address": "100.64.154.46"
+  },
+  "display": {
+    "resolution": "1920x1080",
+    "depth": 32
+  },
+  "system": {
+    "auto_shutdown": false,
+    "keep_alive": true
+  }
+}
